@@ -66,7 +66,7 @@ export default function Contact() {
           </div>
         </div>
         <form
-          netlify
+          data-netlify="true"
           name="contact"
           method="POST"
           onSubmit={handleSubmit}
