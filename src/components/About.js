@@ -11,10 +11,11 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-4 leading-relaxed">
-            I'm currently pursuing the Master of Computer Science at University of Winnipeg having almost completed my 2nd year and graduating in 2021. I obsess over the minor details in software development and am passionate in getting computers to more effectively work on your side by freeing you of the burdens of carrying out repetitive tasks through computer science.
+            I have graduated the University of Winnipeg in December 2021 with aquiring master of science in applied computer science. I obsess over the minor details in software development and am passionate in getting computers to more effectively work on your side by freeing you of the burdens of carrying out repetitive tasks through computer science.
+            I am interested in fullstack-development, DevOps and C/C++ development.
           </p>
           <p className="mb-8 leading-relaxed text-purple-400 text-lg font-serif font-bold">
-            Graduate Research: Image Processing, Computer Vison and Parallel Computing
+            Research Area: Image Processing, Computer Vison and Parallel Computing
           </p>
           <div className="mb-8 flex justify-center">
             <a
@@ -40,11 +41,11 @@ export default function About() {
               className="ml-4 inline-flex text-white bg-blue-1000 border-indigo-400 border-4 py-2 px-6 focus:outline-none hover:bg-indigo-400 hover:text-white rounded text-lg">freeCodeCamp</a>
           </div>
         </div>
-        <div className="lg:max-w-md md:w-1/2 w-5/6">
+        <div className="lg:max-w-lg md:w-1/2 w-5/6">
           <img
-            className="rounded-full"
+            className="rounded-lg w-96"
             alt="ERRO"
-            src="./profile_image.jpg"
+            src="./Avatar.png"
           />
 
         </div>
