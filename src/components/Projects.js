@@ -14,7 +14,7 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            When I was in college, I start to develop Apps and, meanwhile, I developed tons of software in multiple languages. Due to space limitation,  I only list 4 most meaningful, successful and representative programs and projects.
+            When I was in college, I start to develop Apps and, meanwhile, I developed tons of software in various languages. Due to limited space,  I only list 4 most meaningful, successful and representative projects.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

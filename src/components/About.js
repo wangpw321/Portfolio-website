@@ -36,9 +36,6 @@ export default function About() {
             <a
               href="https://www.linkedin.com/in/puwei-wang"
               className="ml-4 inline-flex text-white bg-blue-1000 border-blue-400 border-4 py-2 px-6 focus:outline-none hover:bg-blue-400 hover:text-white rounded text-lg" >Linkedin</a>
-            <a
-              href="https://www.freecodecamp.org/hackerpawen"
-              className="ml-4 inline-flex text-white bg-blue-1000 border-indigo-400 border-4 py-2 px-6 focus:outline-none hover:bg-indigo-400 hover:text-white rounded text-lg">freeCodeCamp</a>
           </div>
         </div>
         <div className="lg:max-w-lg md:w-1/2 w-5/6">
