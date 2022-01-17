@@ -12,7 +12,7 @@ export default function About() {
           </h1>
           <p className="mb-4 leading-relaxed">
             I have graduated the University of Winnipeg in December 2021 with aquiring master of science in applied computer science. I obsess over the minor details in software development and am passionate in getting computers to more effectively work on your side by freeing you of the burdens of carrying out repetitive tasks through computer science.
-            I am interested in fullstack-development, DevOps and C/C++ development.
+            I am interested in full-stack development, DevOps and C/C++ development.
           </p>
           <p className="mb-8 leading-relaxed text-purple-400 text-lg font-serif font-bold">
             Research Area: Image Processing, Computer Vison and Parallel Computing
