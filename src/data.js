@@ -1,17 +1,17 @@
 export const projects = [
   {
-    title: "US GDP Chart",
-    subtitle: [ "React", "API Proxies", "Docker"],
+    title: "E-tickets-commerce",
+    subtitle: [ ".NET 5", "ASP.NET", "Auth"],
     description:
-      "A React app displaying a line chart with a representation of the GDP of the United States with dockerization.",
-    image: "./docker-practice.gif",
-    link: "https://github.com/wangpw321/US-GDP-Chart",
+      "A movie tickets app displaying movies, actors, producers and movie categories, also log in, register features.",
+    image: "./etickets.gif",
+    link: "https://github.com/wangpw321/complete-ecommerce-aspnet-application",
   },
   {
     title: "Inventory System",
     subtitle: [ "Python", "Django", "Docker"],
     description:
-      "An inventory system which stores and represents merchandising and selling data featured with dropzone and report generator.",
+      "An inventory system which stores and represents data of merchandising and selling featured with dropzone and report generator.",
     image: "./django-app.gif",
     link: "https://github.com/wangpw321/Inventory_system/tree/master",
   },
