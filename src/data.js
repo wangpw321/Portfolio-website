@@ -1,19 +1,11 @@
 export const projects = [
   {
     title: "E-tickets-commerce",
-    subtitle: [ ".NET 5", "ASP.NET", "Auth"],
+    subtitle: [ ".NET 5", "ASP.NET MVC", "EF Core"],
     description:
       "A movie tickets app displaying movies, actors, producers and movie categories, also log in, register features.",
     image: "./etickets.gif",
     link: "https://github.com/wangpw321/complete-ecommerce-aspnet-application",
-  },
-  {
-    title: "Inventory System",
-    subtitle: [ "Python", "Django", "Docker"],
-    description:
-      "An inventory system which stores and represents data of merchandising and selling featured with dropzone and report generator.",
-    image: "./django-app.gif",
-    link: "https://github.com/wangpw321/Inventory_system/tree/master",
   },
   {
     title: "E-commerce",
@@ -24,10 +16,18 @@ export const projects = [
     link: "https://github.com/wangpw321/e-commerce/tree/master",
   },
   {
+    title: "Web GIS app",
+    subtitle: [ ".NET 6", "ASP.NET MVC", "Leaflet.js"],
+    description:
+      "A web GIS app working with water consumption data",
+    image: "./web-gis-app.gif",
+    link: "https://github.com/wangpw321/water-consumption-gis-app",
+  },
+  {
     title: "Game Database",
     subtitle: ["Typescript","Angular", "Docker"],
     description:
-      "A Game Database using public API functions with searching and sorting.",
+      "A Game Database with searching and sorting functionalities.",
     image: "./game-db.gif",
     link: "https://github.com/wangpw321/GameDB_angular/tree/master",
   },
@@ -51,16 +51,20 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "C#",
+  "C/C++",
+  ".NET",
+  "ASP.NET Core/MVC",
+  "EntityFramework Core",
+  "Microsoft SQL Server",
+  "PostgreSQL",
   "HTML/CSS/Javascript",
-  "React.js",
-  "Vue.js",
-  "Angular",
+  "Typescript/Angular",
   "Python",
   "Django",
-  "C/C++",
   "DevOps",
   "Docker",
-  "Kubernetes",
-  "MySQL",
   "Git",
+  "React.js",
+  "Vue.js",
 ];
