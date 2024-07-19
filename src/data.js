@@ -36,17 +36,17 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "As a small business owner, finding a reliable and skilled software developer was crucial for the success of my online store. Working with Palvin was an absolute pleasure. He was able to quickly understand my business needs and translate them into a seamless and user-friendly website. The project was delivered on time, within budget, and exceeded my expectations. [Freelancer's Name] provided excellent communication throughout the project, ensuring I was informed every step of the way. I highly recommend them to any small business looking for top-notch development services.",
     image: "https://randomuser.me/api/portraits/lego/4.jpg",
-    name: "Lego 4",
-    company: "Lego",
+    name: "Anonymous small business owner",
+    company: "Fast food restaurant",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "As the CTO of a fast-growing startup, I needed a software developer who could handle complex technical requirements and work efficiently under tight deadlines. Palvin proved to be an invaluable asset to our team. Their expertise in modern technologies and agile development practices allowed us to quickly iterate on our product and bring it to market faster than anticipated. Their problem-solving skills and ability to write clean, maintainable code were outstanding. [Freelancer's Name] seamlessly integrated with our team and contributed significantly to our product's success. I highly recommend their services to any startup looking for a dedicated and talented developer.",
     image: "https://randomuser.me/api/portraits/lego/7.jpg",
-    name: "Lego 7",
-    company: "Lego",
+    name: "Anonymous CTO",
+    company: "Startup in Financial industry",
   },
 ];
 
